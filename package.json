@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xxdannilinxx/html-pdf-lambda.git"
+    "url": "git+https://github.com/fabio571/html-pdf-lambda.git"
   },
   "keywords": [
     "html",
@@ -18,9 +18,9 @@
   "author": "Danilo Machado",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xxdannilinxx/html-pdf-lambda/issues"
+    "url": "https://github.com/fabio571/html-pdf-lambda/issues"
   },
-  "homepage": "https://github.com/xxdannilinxx/html-pdf-lambda#readme",
+  "homepage": "https://github.com/fabio571/html-pdf-lambda#readme",
   "dependencies": {
     "chrome-aws-lambda": "^10.1.0",
     "handlebars": "^4.7.7",
